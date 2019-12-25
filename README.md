@@ -1,2 +1,7 @@
 # aturretcnindex
- 我的博客首页
+
+ 我的网站首页
+
+ https://aturret.cn
+
+ 放在这里方便管理。
